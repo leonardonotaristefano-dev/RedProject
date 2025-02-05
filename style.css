@@ -1,0 +1,47 @@
+
+/* HEADER */
+
+.bgimg {
+    background-image: url(./media/switzerland-862870_1920.jpg);
+    height: 100vh;
+    background-position: center;
+    }
+
+.title {
+    margin-left: 5vh;
+    margin-top: 25vh;
+    font-family: "Nova Square", serif;
+    font-weight: 400;
+    font-style:normal;
+    color: darkred;
+    letter-spacing: 5vh;
+}
+
+.imgson {
+    margin-bottom: -6vh;
+}
+
+/* /HEADER */
+
+/* SEZIONE 1 */
+
+.sectionfirst {
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(126,126,126,0.7469581582633054) 100%, rgba(255,255,255,1) 100%);
+    height: 200vh;
+}
+
+.divsecfirst {
+    
+}
+
+.divh2 {
+    width: 80vh;
+    text-align: center;
+}
+
+h2{
+font-style: oblique;
+}
+
+/* /SEZIONE 1 */
