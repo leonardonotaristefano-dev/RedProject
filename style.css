@@ -10,7 +10,7 @@
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
-    }     
+    }
 
 .title {
     font-family: "Nova Square", serif;
@@ -52,8 +52,6 @@
 font-style: oblique;
 font-size: 30px;
 }
-
-/* /SEZIONE 1 */
 
 .divh2{
     margin-top: 10vh;
@@ -111,3 +109,101 @@ p {
 .imgtrees2 {
     width: 100vw;
 }
+
+/* /SEZIONE 1 */
+
+/* SEZIONE 2 */
+
+.sectionsecond {
+    font-family: "Nova Square", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: darkred;
+    margin-left: 5vw;
+    height: 100vh;
+}
+
+
+.h3sez2 {
+    width: 35%;
+    padding-top: 5vh;
+}
+
+.divimg3trees {
+    bottom: 0vw;
+    right:5vw;
+}
+
+/* /SEZIONE 2 */
+
+/* SEZIONE 3 */
+
+.sectionthird {
+    background: rgb(239, 236, 236);
+    font-family: "Nova Square", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: darkred;
+    height: 70vh;
+}
+
+.divh2sec3 {
+    margin-left: 4vw;
+    margin-top: 13vh;
+    margin-bottom: 3vh;
+}
+
+.card-img-top {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+/* /SEZIONE 3 */
+
+/* SEZIONE 4 */
+
+.sectionfourth{
+    height: 150vh;
+    background: rgb(239, 236, 236);
+    font-family: "Nova Square", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: darkred;
+}
+
+.divh2sec4 {
+    margin-left: 4vw;
+    margin-top: 5vh;
+    margin-bottom: 3vh;
+}
+
+.card-img-land {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.divimgfinalsez4 {
+    bottom: 0px;
+    left:0px;
+    color: darkred;
+}
+
+.imgfinalsez4 {
+    width: 100vw;
+}
+
+/* /SEZIONE 4 */
+
+/* FOOTER */
+
+footer {
+    background: darkred;
+    font-family: "Nova Square", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+/* /FOOTER */
