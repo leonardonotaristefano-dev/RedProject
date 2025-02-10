@@ -44,12 +44,33 @@
 
 
 .divh2 {
+    font-family: "Nova Square", serif;
     width: 50vw;
+    height: 20hv;
     text-align: center;
+}
+
+.apice1 {
+    position: absolute;
+    font-family: "Nova Square", serif;
+    font-size: 70px;
+    color: darkred;
+    top: -20px;
+    left: -5px;
+}
+
+.apice2 {
+    position: absolute;
+    font-family: "Nova Square", serif;
+    font-size: 70px;
+    color: darkred;
+    bottom: -60px;
+    right: 35px;
 }
 
 .divh2son{
     font-style: oblique;
+    color: rgba(128, 128, 128, 0.491);
     font-size: 30px;
 }
 
