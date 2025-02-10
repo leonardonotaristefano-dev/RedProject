@@ -39,7 +39,7 @@
 
 .sectionfirst {
     background: rgb(239, 236, 236);
-    height: 200vh;
+    height: 187vh;
 }
 
 
@@ -49,8 +49,8 @@
 }
 
 .divh2son{
-font-style: oblique;
-font-size: 30px;
+    font-style: oblique;
+    font-size: 30px;
 }
 
 .divh2{
@@ -66,6 +66,19 @@ font-size: 30px;
     width: 13vw;
 }
 
+.pallino {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-style: solid;
+    border-color: darkred;
+    border-radius: 100%;
+    border-width: 1px;
+    position: absolute;
+    bottom: -11px;
+    right: 98px;
+}
+
 .divtesti {
     margin-top: 30vh;
 }
@@ -75,7 +88,7 @@ font-size: 30px;
     font-weight: 400;
     font-style: normal;
     color: darkred;
-    width: 25%;
+    width: 35%;
 }
 
 .secondoh3 {
@@ -83,7 +96,7 @@ font-size: 30px;
     font-weight: 400;
     font-style: normal;
     color: darkred;
-    width: 25%;
+    width: 35%;
 }
 
 p {
@@ -126,12 +139,29 @@ p {
 
 .h3sez2 {
     width: 35%;
-    padding-top: 5vh;
+    border-color: transparent;
+    border-left-color:darkred;
+    border-style: solid;
+    border-width: 3px;
+    padding-left: 15px;
 }
 
 .divimg3trees {
     bottom: 0vw;
     right:5vw;
+}
+
+.pallinosez2 {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-style: solid;
+    border-color: darkred;
+    border-radius: 100%;
+    border-width: 1px;
+    position: absolute;
+    top: -5px;
+    left: -9px;
 }
 
 /* /SEZIONE 2 */
@@ -157,6 +187,10 @@ p {
     border-radius: 50%;
     width: 100px;
     height: 100px;
+    border-style: solid;
+    border-color: darkred;
+    border-radius: 100%;
+    border-width: 2px;
 }
 
 /* /SEZIONE 3 */
@@ -182,6 +216,10 @@ p {
     border-radius: 50%;
     width: 200px;
     height: 200px;
+    border-style: solid;
+    border-color: darkred;
+    border-radius: 100%;
+    border-width: 2px;
 }
 
 .divimgfinalsez4 {
