@@ -54,7 +54,7 @@
     position: absolute;
     font-family: "Nova Square", serif;
     font-size: 70px;
-    color: darkred;
+    color: rgb(139, 0, 0);
     top: -20px;
     left: -5px;
 }
