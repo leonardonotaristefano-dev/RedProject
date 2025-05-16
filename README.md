@@ -1,6 +1,6 @@
 # RedProject
 
-"RedProject" è un progetto front-end sviluppato con HTML e CSS.
+"RedProject" è un progetto front-end sviluppato con HTML,CSS e Bootstrap.
 Ha per me un grande valore emotivo in quanto è il primo progetto sviluppato durante il Bootcamp di Aulab.
 
 E' disponibile anche online tramite GitHub Pages, accedendo a [QUESTO LINK](https://leonardonotaristefano-dev.github.io/RedProject/).
